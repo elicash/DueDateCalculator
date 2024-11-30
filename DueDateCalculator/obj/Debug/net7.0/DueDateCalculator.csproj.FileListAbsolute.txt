@@ -1,0 +1,14 @@
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\bin\Debug\net7.0\DueDateCalculator.exe
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\bin\Debug\net7.0\DueDateCalculator.deps.json
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\bin\Debug\net7.0\DueDateCalculator.runtimeconfig.json
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\bin\Debug\net7.0\DueDateCalculator.dll
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\bin\Debug\net7.0\DueDateCalculator.pdb
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\obj\Debug\net7.0\DueDateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\obj\Debug\net7.0\DueDateCalculator.AssemblyInfoInputs.cache
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\obj\Debug\net7.0\DueDateCalculator.AssemblyInfo.cs
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\obj\Debug\net7.0\DueDateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\obj\Debug\net7.0\DueDateCalculator.dll
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\obj\Debug\net7.0\refint\DueDateCalculator.dll
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\obj\Debug\net7.0\DueDateCalculator.pdb
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\obj\Debug\net7.0\DueDateCalculator.genruntimeconfig.cache
+C:\Users\Eli\source\repos\DueDateCalculator\DueDateCalculator\obj\Debug\net7.0\ref\DueDateCalculator.dll
